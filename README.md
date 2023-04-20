@@ -6,15 +6,6 @@ zip pictures by date
 
 This Python script is designed to organize and compress image files in a specified folder by creating zip files for each day's images and monthly zip files for images in the same month and year. The script utilizes the `os` and `zipfile` modules from Python's standard library, as well as the `datetime` module for date manipulation.
 
-```bash
-pip install os
-pip install zipfile
-```
-
-```python
-val = test
-```
-
 ### Usage
 
 1. Update the `source_folder` variable to specify the folder path where your image files are located.
