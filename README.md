@@ -9,11 +9,11 @@ This Python script is designed to organize and compress image files in a specifi
 ```bash
 pip install os
 pip install zipfile
-
+```
 
 ```python
 val = test
-
+```
 
 ### Usage
 
