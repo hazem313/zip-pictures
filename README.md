@@ -2,7 +2,7 @@
 
 This Python script helps organize image files (with extensions .png, .jpg, .jpeg, .gif) in a given root folder by creating folders based on the modified date of the image files and zipping them for easy storage and sharing. It uses the `os`, `shutil`, and `zipfile` modules for file and folder manipulation.
 
-ATTENTION: select zippictures for single folder  and check all folders for multiple folders
+ATTENTION: select zippictures for single folder  and zippicture_checkallfolders for multiple folders
 
 ## How to Use
 
