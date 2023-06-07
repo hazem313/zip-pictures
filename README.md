@@ -1,4 +1,4 @@
-# Zip images by modified date - SINGLE FOLDER ONLY
+# Zip images by modified date - SINGLE FOLDER and MULTIPLE FOLDERS
 
 This Python script helps organize image files (with extensions .png, .jpg, .jpeg, .gif) in a given root folder by creating folders based on the modified date of the image files and zipping them for easy storage and sharing. It uses the `os`, `shutil`, and `zipfile` modules for file and folder manipulation.
 
